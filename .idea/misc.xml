@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Project/app/src/main/res/layout/aboutus.xml" value="0.264" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Project/app/src/main/res/layout/activity_main.xml" value="0.12360688956433637" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Project/app/src/main/res/layout/activity_maps.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Project/app/src/main/res/layout/brands.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Project/app/src/main/res/layout/castrol_car.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Project/app/src/main/res/layout/castrol_car_admin.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Project/app/src/main/res/layout/castrol_moto.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Project/app/src/main/res/layout/castrol_moto_admin.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Project/app/src/main/res/layout/castrol_truck.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Project/app/src/main/res/layout/castrol_truck_admin.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Project/app/src/main/res/layout/castrol_vehicletype.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Project/app/src/main/res/layout/forgotpass.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Project/app/src/main/res/layout/home.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Project/app/src/main/res/layout/login.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Project/app/src/main/res/layout/map.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Project/app/src/main/res/layout/mobil_car.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Project/app/src/main/res/layout/mobil_car_admin.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Project/app/src/main/res/layout/mobil_moto.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Project/app/src/main/res/layout/mobil_moto_admin.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Project/app/src/main/res/layout/mobil_truck.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Project/app/src/main/res/layout/mobil_truck_admin.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Project/app/src/main/res/layout/mobil_vehicletype.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Project/app/src/main/res/layout/myprofile.xml" value="0.176" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Project/app/src/main/res/layout/oilchange.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Project/app/src/main/res/layout/search.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Project/app/src/main/res/layout/signup.xml" value="0.264" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Project/app/src/main/res/layout/splashscreen.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Project/app/src/main/res/layout/total_car.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Project/app/src/main/res/layout/total_car_admin.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Project/app/src/main/res/layout/total_moto.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Project/app/src/main/res/layout/total_moto_admin.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Project/app/src/main/res/layout/total_truck.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Project/app/src/main/res/layout/total_truck_admin.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Project/app/src/main/res/layout/total_vehicletype.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
